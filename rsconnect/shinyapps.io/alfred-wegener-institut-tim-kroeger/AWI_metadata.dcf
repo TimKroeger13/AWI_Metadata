@@ -1,0 +1,13 @@
+name: AWI_metadata
+title: AWI_metadata
+username:
+account: alfred-wegener-institut-tim-kroeger
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4629792
+bundleId: 5021012
+url: https://alfred-wegener-institut-tim-kroeger.shinyapps.io/AWI_metadata/
+when: 1631303079.54626
+lastSyncTime: 1631303079.54626
+asMultiple: FALSE
+asStatic: FALSE
